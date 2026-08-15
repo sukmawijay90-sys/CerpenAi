@@ -1,0 +1,6 @@
+{
+  "name": "Generator Cerpen AI",
+  "description": "Aplikasi pembuat cerpen fiksi otomatis menggunakan Google Gemini AI dengan kustomisasi tema, penulis, dan tokoh dinamis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
